@@ -7,7 +7,7 @@ Relevant papers:
 Nice posts:
 - [CKKS explained series](https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/)
 
-Other (actually secure) Open-source implementations:
+Other (actually secure) open-source implementations:
 - [Microsoft SEAL](https://github.com/microsoft/SEAL)
 - [Lattigo](https://github.com/tuneinsight/lattigo)
 - [OpenFHE](https://github.com/openfheorg/openfhe-development)
